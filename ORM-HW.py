@@ -11,7 +11,7 @@ DATA = 'tests_data.json'
 
 sql_db = 'postgresql'
 login = 'postgres'
-password = 'Ingrad2022'
+password = 'INNOTECH'
 name_db = 'sale-book'
 
 with open(os.path.join(BASE_PATH, DATA_DIR, DATA), 'r') as f:
